@@ -1,28 +1,34 @@
-## Hi there 👋, I'm Filip
+# Filip Farkasovsky
 
-✨ Welcome to my GitHub profile!  
-
+ 👋 Welcome to my GitHub page!  
 I'm a **Math & Economy student** with a passion for **data science, AI, and game development**.
 
-- 🎓 B.Sc. in Mathematics & Economy  
-- 🎮 Unity | Game Development | Multiplayer Games 
-- 📊 Machine Learning | Econometrics | Data Analysis
-  
+### ⚡️ A Few Quick Facts 
+- 🏦 From Slovakia, but currently based in Czech republic
+- 🎓Studying now on @ Masarykova Univeryita 
+- 🎮 In my free time, I develop multiplayer games in Unity
+- 📈 Academically and professionally
+  - Machine Learning
+  - Econometrics
+  -  Data Analysis
+-  📙 Check out my Resume
+
 
 ### 🚀 Currently Working On
-- **Feature Selection Analysis:** Exploring methods to identify the most relevant variables in datasets  
-- **Signal:** Prototype of a **multiplayer game** built in **Unity** with c#
+- **[Feature Selection Analysis](https://github.com/FilipFarkasovsky/feature-selection-neural-networks):** Exploring methods to identify the most relevant variables in datasets  
 
-## 🛠 Skills & Tools
+- **[Signal](https://github.com/FilipFarkasovsky/The-Signal):** Prototype of a **multiplayer game** built in **Unity** with C#
+
+### 🛠 Skills & Tools
 - **Programming & Data:** Python, R, SAS  
 - **Data Science & ML:** Machine Learning, Time Series, Econometrics, Game Theory  
 - **Visualization:** ggplot2, Matplotlib, Seaborn  
 - **Other:** SQL, Excel, LaTeX  
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 ![Filip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilipFarkasovsky&show_icons=true&theme=radical)
 
-## 🌍 Let's Connect
+### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE/)  
 - [Twitter](https://twitter.com/YOUR_PROFILE)  
 
