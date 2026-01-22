@@ -1,12 +1,10 @@
 # Filip Farkasovsky
 
 ### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com//) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)](https://stackoverflow.com/users/11534375/hemanth-)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:)
-[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user//)](https://auth.geeksforgeeks.org/user//articles)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/FilipFarkasovsky/)](https://github.com/FilipFarkasovsky/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filip-farkasovsky/)](https://www.linkedin.com/in/filip-farkasovsky)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:farkasovsky.filip8@gmail.com)](mailto:farkasovsky.filip8@gmail.com)
+
 
 
  👋 Welcome to my GitHub page!  
@@ -30,6 +28,20 @@ I'm a **Math & Economy student** with a passion for **data science, AI, and game
 - **[Signal](https://github.com/FilipFarkasovsky/The-Signal):** Prototype of a **multiplayer game** built in **Unity** with C#
 
 ### 🛠 Skills & Tools
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)       <!-- Red-Orange -->
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) <!-- Orange -->
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)                       <!-- Orange-Red -->
+[![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) <!-- Green -->
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)               <!-- Blue -->
+[![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)                           <!-- Blue -->
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)                        <!-- Blue -->
+[![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html) <!-- Blue -->
+[![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)                  <!-- Purple -->
+[![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)                          <!-- Black -->
+
+
+
+
 - **Programming & Data:** Python, R, SAS  
 - **Visualization:** ggplot2, Matplotlib, Seaborn  
 - **Other:** SQL, LaTeX  
@@ -37,7 +49,7 @@ I'm a **Math & Economy student** with a passion for **data science, AI, and game
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/Filip-Farkasovsky/)  
-- [Twitter](https://twitter.com/YOUR_PROFILE)  
+- [Gmail](mailto:farkasovsky.filip8@gmail.com)  
 
 
 <!--
