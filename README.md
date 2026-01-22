@@ -5,12 +5,13 @@ I'm a **Math & Economy student** with a passion for **data science, AI, and game
 
 ### ⚡️ A Few Quick Facts 
 - 🏦 From Slovakia, but currently based in Czech republic
-- 🎓Studying now on @ Masarykova Univeryita 
+- 🎓 Studying now at Masaryk University 
 - 🎮 In my free time, I develop multiplayer games in Unity
+- 😅 Aprendiendo español… los errores están incluidos
 - 📈 Academically and professionally
   - Machine Learning
   - Econometrics
-  -  Data Analysis
+  - Data Analysis
 -  📙 Check out my Resume
 
 
@@ -21,15 +22,12 @@ I'm a **Math & Economy student** with a passion for **data science, AI, and game
 
 ### 🛠 Skills & Tools
 - **Programming & Data:** Python, R, SAS  
-- **Data Science & ML:** Machine Learning, Time Series, Econometrics, Game Theory  
 - **Visualization:** ggplot2, Matplotlib, Seaborn  
-- **Other:** SQL, Excel, LaTeX  
+- **Other:** SQL, LaTeX  
 
-### 📈 GitHub Stats
-![Filip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilipFarkasovsky&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE/)  
+- [LinkedIn](https://www.linkedin.com/in/Filip-Farkasovsky/)  
 - [Twitter](https://twitter.com/YOUR_PROFILE)  
 
 
