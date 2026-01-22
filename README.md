@@ -19,7 +19,7 @@ I'm a **Math & Economy student** with a passion for **data science, AI, and game
   - Machine Learning
   - Econometrics
   - Data Analysis
--  📙 Check out my Resume
+-  📙 Check out my [Resume](Resume%20-%20Filip%20Farkasovsky.pdf)
 
 
 ### 🚀 Currently Working On
